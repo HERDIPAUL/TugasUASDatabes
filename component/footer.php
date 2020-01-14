@@ -53,7 +53,7 @@
     </div>
     <div class="row" id="cpy">
       <div class="col-xs-12">
-        <p style="color : white; text-align: center;">@Surabaya 2017 by Bahroel</p>
+        <p style="color : white; text-align: center;">@Malang 2020 by Herdi Paul</p>
       </div>
     </div>
   </div>
